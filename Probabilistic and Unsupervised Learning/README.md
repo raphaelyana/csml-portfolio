@@ -4,4 +4,8 @@ This module was taught by UCL with Gatsby Computational Neuroscience Unit. Its d
 
 ### Contents
 
-It contains the wording, the solution paper I made, the codes I made to answer the questions, and the feedback I obtained.
+The folder contains:
+- the subject of the coursework (see Wording.pdf),
+- the solution paper I made, the codes I made to answer the questions (see Answers.pdf), 
+- and the feedback I obtained (see Feedback.png)
+- a zip file containing everything stated above (see Submission.zip)
