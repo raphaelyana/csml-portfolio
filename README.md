@@ -17,4 +17,4 @@ This repository is divided into the different modules I studied, which are:
 
 Feel free to reach out if you are interested into discussing my work:
 - Email: raphael.yana.24@gmail.com
-- LinkedIn: \href{https://www.linkedin.com/in/rapha%C3%ABl-yana-72a4211ba/}{Raphael Yana}
+- LinkedIn: https://www.linkedin.com/in/rapha%C3%ABl-yana-72a4211ba/
