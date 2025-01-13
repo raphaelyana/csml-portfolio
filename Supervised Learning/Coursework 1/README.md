@@ -13,4 +13,4 @@ The folder contains:
 
 ### Environment
 
-- **Python version**: 3.x.x
+- **Python version**: 3.11.5
