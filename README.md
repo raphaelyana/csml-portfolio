@@ -9,9 +9,9 @@ This repository is divided into the different modules I studied, which are:
 - **COMP0171 : Bayesian Deep Learning**
 - **COMP0137 : Machine Vision**
 - **STAT0028 : Statistical Models and Data Analysis**
-- **COMP0120 : Numerical Optimization**
-- **COMP0087 : Statistical Natural Language Processing**
-- **COMP0081 : Applied Machine Learning**
+- **COMP0120 : Numerical Optimization (Not finished yet, Semester 2)**
+- **COMP0087 : Statistical Natural Language Processing (Not finished yet, Semester 2)**
+- **COMP0081 : Applied Machine Learning (Not finished yet, Semester 2)**
 
 ## Contact
 
